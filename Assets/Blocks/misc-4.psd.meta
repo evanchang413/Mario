@@ -1,0 +1,2027 @@
+fileFormatVersion: 2
+guid: 63b3ce2017a37af479a126eef5b7e8fb
+timeCreated: 1432151838
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ground 1
+    21300002: Rock 1
+    21300004: Tree 1
+    21300006: misc-4_0
+    21300008: misc-4_1
+    21300010: misc-4_2
+    21300012: misc-4_3
+    21300014: misc-4_4
+    21300016: misc-4_5
+    21300018: misc-4_6
+    21300020: misc-4_7
+    21300022: misc-4_8
+    21300024: misc-4_9
+    21300026: misc-4_10
+    21300028: misc-4_11
+    21300030: misc-4_12
+    21300032: misc-4_13
+    21300034: misc-4_14
+    21300036: misc-4_15
+    21300038: misc-4_16
+    21300040: misc-4_17
+    21300042: misc-4_18
+    21300044: misc-4_19
+    21300046: misc-4_20
+    21300048: misc-4_21
+    21300050: misc-4_22
+    21300052: misc-4_23
+    21300054: misc-4_24
+    21300056: misc-4_25
+    21300058: misc-4_26
+    21300060: misc-4_27
+    21300062: misc-4_28
+    21300064: misc-4_29
+    21300066: misc-4_30
+    21300068: misc-4_31
+    21300070: misc-4_32
+    21300072: misc-4_33
+    21300074: misc-4_34
+    21300076: misc-4_35
+    21300078: misc-4_36
+    21300080: misc-4_37
+    21300082: misc-4_38
+    21300084: misc-4_39
+    21300086: misc-4_40
+    21300088: misc-4_41
+    21300090: misc-4_42
+    21300092: misc-4_43
+    21300094: misc-4_44
+    21300096: misc-4_45
+    21300098: misc-4_46
+    21300100: misc-4_47
+    21300102: misc-4_48
+    21300104: misc-4_49
+    21300106: misc-4_50
+    21300108: misc-4_51
+    21300110: misc-4_52
+    21300112: misc-4_53
+    21300114: misc-4_54
+    21300116: misc-4_55
+    21300118: misc-4_56
+    21300120: misc-4_57
+    21300122: misc-4_58
+    21300124: misc-4_59
+    21300126: misc-4_60
+    21300128: misc-4_61
+    21300130: misc-4_62
+    21300132: misc-4_63
+    21300134: misc-4_64
+    21300136: misc-4_65
+    21300138: misc-4_66
+    21300140: misc-4_67
+    21300142: misc-4_68
+    21300144: misc-4_69
+    21300146: misc-4_70
+    21300148: misc-4_71
+    21300150: misc-4_72
+    21300152: misc-4_73
+    21300154: misc-4_74
+    21300156: misc-4_75
+    21300158: misc-4_76
+    21300160: misc-4_77
+    21300162: misc-4_78
+    21300164: misc-4_79
+    21300166: misc-4_80
+    21300168: misc-4_81
+    21300170: misc-4_82
+    21300172: misc-4_83
+    21300174: misc-4_84
+    21300176: misc-4_85
+    21300178: misc-4_86
+    21300180: misc-4_87
+    21300182: misc-4_88
+    21300184: misc-4_89
+    21300186: misc-4_90
+    21300188: misc-4_91
+    21300190: misc-4_92
+    21300192: misc-4_93
+    21300194: misc-4_94
+    21300196: misc-4_95
+    21300198: misc-4_96
+    21300200: misc-4_97
+    21300202: misc-4_98
+    21300204: misc-4_99
+    21300206: misc-4_100
+    21300208: misc-4_101
+    21300210: misc-4_102
+    21300212: misc-4_103
+    21300214: misc-4_104
+    21300216: misc-4_105
+    21300218: misc-4_106
+    21300220: misc-4_107
+    21300222: misc-4_108
+    21300224: misc-4_109
+    21300226: misc-4_110
+    21300228: misc-4_111
+    21300230: misc-4_112
+    21300232: misc-4_113
+    21300234: misc-4_114
+    21300236: misc-4_115
+    21300238: misc-4_116
+    21300240: misc-4_117
+    21300242: misc-4_118
+    21300244: misc-4_119
+    21300246: misc-4_120
+    21300248: misc-4_121
+    21300250: misc-4_123
+    21300252: misc-4_124
+    21300254: misc-4_125
+    21300256: misc-4_126
+    21300258: misc-4_127
+    21300260: misc-4_128
+    21300262: misc-4_129
+    21300264: misc-4_130
+    21300266: misc-4_131
+    21300268: misc-4_132
+    21300270: misc-4_133
+    21300272: misc-4_134
+    21300274: misc-4_135
+    21300276: misc-4_136
+    21300278: misc-4_137
+    21300280: misc-4_138
+    21300282: misc-4_139
+    21300284: misc-4_140
+    21300286: misc-4_141
+    21300288: misc-4_142
+    21300290: misc-4_143
+    21300292: misc-4_144
+    21300294: misc-4_145
+    21300296: misc-4_146
+    21300298: misc-4_147
+    21300300: misc-4_148
+    21300302: misc-4_149
+    21300304: misc-4_150
+    21300306: misc-4_151
+    21300308: misc-4_152
+    21300310: misc-4_153
+    21300312: misc-4_154
+    21300314: misc-4_155
+    21300316: misc-4_156
+    21300318: misc-4_157
+    21300320: misc-4_158
+    21300322: misc-4_159
+    21300324: misc-4_160
+    21300326: misc-4_161
+    21300328: misc-4_162
+    21300330: misc-4_163
+    21300332: misc-4_164
+    21300334: misc-4_165
+    21300336: misc-4_166
+    21300338: misc-4_167
+    21300340: misc-4_168
+    21300342: misc-4_169
+    21300344: misc-4_170
+    21300346: misc-4_171
+    21300348: misc-4_172
+    21300350: misc-4_173
+    21300352: misc-4_174
+    21300354: misc-4_175
+    21300356: misc-4_176
+    21300358: misc-4_177
+    21300360: misc-4_178
+    21300362: misc-4_179
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: misc-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 407
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 477
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 382
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 458
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 422
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 438
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 435
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 435
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 435
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 436
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 451
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 442
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 442
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 433
+        width: 85
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 416
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 110
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 408
+        width: 107
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_26
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 392
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 404
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 388
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 370
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 374
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 342
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 372
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 342
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 343
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 307
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 323
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 357
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 331
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 331
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 350
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 350
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 350
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 160
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 296
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 296
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_55
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 309
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_56
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_57
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 299
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 299
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 264
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_62
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 308
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 274
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 192
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_66
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 255
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_68
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 278
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_69
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 290
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_70
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 254
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_71
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 179
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 247
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_73
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 190
+        width: 145
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 237
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_76
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_77
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 220
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_78
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 189
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 101
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 202
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 48
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_88
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 136
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_89
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 140
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_90
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 100
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_91
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 84
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_92
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 125
+        width: 136
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 123
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_95
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 123
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_96
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 106
+        width: 208
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 94
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_99
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_100
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_101
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_102
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_103
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_104
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_105
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 48
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 85
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 85
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_109
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_111
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_112
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_113
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_114
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 85
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_116
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 16
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_117
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_118
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_125
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_126
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 30
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_128
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_130
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_131
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_132
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_133
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_134
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_135
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_136
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 30
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_137
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_138
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_139
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_141
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_142
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_143
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_144
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_145
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_146
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_147
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 30
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_148
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 30
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_149
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_150
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_151
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_152
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_154
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_155
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_156
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_157
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_158
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_159
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_160
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_161
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 12
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_163
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_164
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_165
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_166
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_167
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_168
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_169
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_170
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_171
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_172
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_173
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_174
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_175
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_176
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_177
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_178
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: misc-4_179
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

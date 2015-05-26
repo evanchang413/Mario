@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 4301a74b333f95c43808f98c0ae5b568
+timeCreated: 1432059942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Koopa green_0
+    21300002: Koopa green_1
+    21300004: Koopa green_2
+    21300006: Koopa green_3
+    21300008: Koopa green_4
+    21300010: Koopa green_5
+    21300012: Koopa green_6
+    21300014: Koopa green_7
+    21300016: Koopa green_8
+    21300018: Koopa green_9
+    21300020: Koopa green_10
+    21300022: Koopa green_11
+    21300024: Koopa green_12
+    21300026: Koopa green_13
+    21300028: Koopa green_14
+    21300030: Koopa green_15
+    21300032: Koopa green_16
+    21300034: Koopa green_17
+    21300036: Koopa green_18
+    21300038: Koopa green_19
+    21300040: Koopa green_20
+    21300042: Koopa green_21
+    21300044: Koopa green_22
+    21300046: Koopa green_23
+    21300048: Koopa green_24
+    21300050: Koopa green_25
+    21300052: Koopa green_26
+    21300054: Koopa green_27
+    21300056: Koopa green_28
+    21300058: Koopa green_29
+    21300060: Koopa green_30
+    21300062: Koopa green_31
+    21300064: Koopa green_32
+    21300066: Koopa green_33
+    21300068: Koopa green_34
+    21300070: Koopa green_35
+    21300072: Koopa green_36
+    21300074: Koopa green_37
+    21300076: Koopa green_38
+    21300078: Koopa green_39
+    21300080: Koopa green_49
+    21300082: Koopa green_50
+    21300084: Koopa green_51
+    21300086: Koopa green_52
+    21300088: Koopa green_53
+    21300090: Koopa green_54
+    21300092: Koopa green_55
+    21300094: Koopa green_56
+    21300096: Koopa green_57
+    21300098: Koopa green_58
+    21300100: Koopa green_59
+    21300102: Koopa green_60
+    21300104: Koopa green_61
+    21300106: Koopa green_62
+    21300108: Koopa green_63
+    21300110: Koopa green_64
+    21300112: Koopa green_65
+    21300114: Koopa green_66
+    21300116: Koopa green_67
+    21300118: Koopa green_68
+    21300120: Koopa green_69
+    21300122: Koopa green_70
+    21300124: Koopa green_71
+    21300126: Koopa green_72
+    21300128: Koopa green_73
+    21300130: Koopa green_74
+    21300132: Koopa green_75
+    21300134: Koopa green_76
+    21300136: Koopa green_77
+    21300138: Koopa green_78
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Koopa green_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 388
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 386
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 382
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 380
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 380
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 380
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 380
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 382
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 386
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 388
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 340
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 340
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 340
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 338
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 338
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 340
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 340
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 300
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 300
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 300
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 298
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 298
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 300
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 300
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 300
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 258
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 260
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 260
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 258
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 125
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 119
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 125
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 79
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 79
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 81
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 39
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_69
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 39
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 39
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 41
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_72
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Koopa green_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
