@@ -48,7 +48,7 @@ public class KoopaControl : MonoBehaviour {
 		anim.SetFloat("Speed", Mathf.Abs (move));
 
 		if (jump) {
-			GetComponent<Rigidbody2D>().AddForce(Vector2.up * 480.0f);
+			GetComponent<Rigidbody2D>().AddForce(Vector2.up * 180.0f);
 			//			rigidbody2D.AddForce(Vector2.right * 450.0f);
 			jump = false;
 		} if (right) {
